@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZS4D400</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Meine Messageklasse</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZS4D400</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Flugnummer &amp;1 &amp;2 ist bereits vorhanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZS4D400</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Fluggesellschaft &amp;1 ist nicht vorhanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZS4D400</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Ablug- und Zielflughafen dürfen nicht identisch sein</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
